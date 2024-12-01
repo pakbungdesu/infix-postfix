@@ -1,12 +1,10 @@
 
-<h2>Base Converter</h2>
-This repository contains a C++ implementation for infix and postfix conversions
-<br><br>
+<h2>Infix and Postfix Conversions (using stack)</h2>
 
 <h3>Features:</h3>
 
-- Converts infix to postfix eg. A*B+C/D --> AB*CD/+
-- Converts postfix to infix eg. ABC*+D- --> A+B*C-D
+- Converts an expression of infix to postfix eg. `A*B+C/D --> AB*CD/+`
+- Converts an expression of postfix to infix eg. `ABC*+D- --> A+B*C-D`
 
   
 <h3>How to Use:</h3>
