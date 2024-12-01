@@ -1,13 +1,23 @@
 
-<h2>How to Use:</h2>
+<h2>Base Converter</h2>
+This repository contains a C++ implementation for infix and postfix conversions
+<br><br>
 
-<h3>1. Clone the Repository:</h3>
+<h3>Features:</h3>
 
-```Bash
+- Converts infix to postfix eg. A*B+C/D --> AB*CD/+
+- Converts postfix to infix eg. ABC*+D- --> A+B*C-D
 
-git clone https://github.com/pakbungdesu/infix-postfix.git
+  
+<h3>How to Use:</h3>
 
-```
+- <b>1. Clone the Repository:</b>
 
-<h3>2. Compile and Run:</h3>
-Use your preferred C++ compiler to build and execute the program
+  ```Bash
+  
+  git clone https://github.com/pakbungdesu/infix-postfix.git
+  
+  ```
+
+- <b>2. Compile and Run:</b>
+  Use your preferred C++ compiler to build and execute the program
